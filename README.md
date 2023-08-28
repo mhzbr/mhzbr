@@ -1,8 +1,25 @@
-<a href="github.com/mhzbr" Hi there! Welcome to my GitHub 😀>
-Im a Backend Developer over +6 years, passionete by tecnologies and codes. I love studie and learning every day about sutffs relationed with IT. As a software engineer, the more I gain knowledge, the more I understand there is so much more to learn.
-Youtube Linkedin
-
-My Awesome Stats
-
-
-Csharp .NET RabbitMQ Redis Mysql MongoDb SQL Azure Bootstrap Angular Css Html5 Typescript javascript 
+<!DOCTYPE hmtl>
+<html>
+  <head>
+    MY GITHUB <br>
+</head>
+ <body> 
+<a href="https://github.com/mhzbr"> Hi there! Welcome to my GitHub 😀 </a> <br>
+Im a Web Developer over one year, passionete by tecnologies and codes. <br>I like studie and learning sutffs relationed with IT. As a software engineer, the more 
+<br>
+<br>
+<a href="https://youtube.com/@eucodando_">Youtube </a>         <a href="https://www.linkedin.com/in/mhzb/">Linkedin </a>
+<br>
+<br>
+   
+My skills:<br>
+#Mysql #Css #Html5 #javascript 
+</body>
+</html>
+ 
+  
+   
+   
+    
+    
+         
