@@ -13,7 +13,7 @@ Im a Web Developer over eight months, passionete by tecnologies and codes. <br>I
 <br>
    
 My skills:<br>
-#Mysql #Css #Html5 #javascript 
+#Mysql #Css #Html5 #javascript #DevOps
 </body>
 </html>
  
