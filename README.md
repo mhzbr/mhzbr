@@ -1,7 +1,7 @@
 ### Hi there! Welcome to my GitHub 😀
 #### Im a Web Developer over eight months, passionete by tecnologies and codes. I love studie and  learning every day about sutffs relationed with IT.
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eucodando_)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mhzb/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhzb/)
 
 ## 
 
