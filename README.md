@@ -5,7 +5,7 @@
 </head>
  <body> 
 <a href="https://github.com/mhzbr"> Hi there! Welcome to my GitHub 😀 </a> <br>
-Im a Web Developer eight months, passionete by tecnologies and codes. <br>I like studie and learning sutffs relationed with IT.
+Im a Web Developer over eight months, passionete by tecnologies and codes. <br>I like studie and learning sutffs relationed with IT.
 <br>
 <br>
 <a href="https://youtube.com/@eucodando_">Youtube </a>         <a href="https://www.linkedin.com/in/mhzb/">Linkedin </a>
