@@ -1,5 +1,5 @@
 ### Hello Word! Welcome to my CodeSpace 😀
-#### Im a Web Developer and Support Analyst over eight months, passionete by tecnologies and codes. I love studie and  learning every day about stuffs relationed with IT.
+#### Im a Web Developer, Trafic analisty and Support Analyst over four years, passionete by tecnologies and codes. I love studie and  learning every day about stuffs relationed with IT.
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eucodando_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhzb/)
 
